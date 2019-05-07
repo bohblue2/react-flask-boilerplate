@@ -1,2 +1,1 @@
-# react-flask-boilerplate
-react-flask-boilerplate
+# React Flask Docker AWS boilerplate
